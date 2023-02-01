@@ -1,0 +1,19 @@
+{
+  "name": "game-endless-mines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gormonn/game-endless-mines.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gormonn/game-endless-mines/issues"
+  },
+  "homepage": "https://github.com/gormonn/game-endless-mines#readme"
+}
